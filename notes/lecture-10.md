@@ -52,6 +52,8 @@
   * Memory Leak
   * Freeze browser
 
+![image](https://github.com/alok722/namaste-javascript-notes/assets/130847211/21937ac7-da88-4c2e-90bb-714b373d56f1)
+
 
 <hr>
 
